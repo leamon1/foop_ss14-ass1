@@ -1,6 +1,14 @@
 *.class
 
+# ide files #
+.classpath
+.idea
+.nbproject
+.project
+.settings
+
 # Package Files #
 *.jar
 *.war
 *.ear
+/target
